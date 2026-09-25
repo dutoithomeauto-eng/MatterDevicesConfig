@@ -1,0 +1,1 @@
+{"idleInterval":500,"activeInterval":300,"activeThreshold":4000,"dataModelRevision":18,"interactionModelRevision":12,"specificationVersion":17039616,"maxPathsPerInvoke":1,"supportedTransports":{"tcpClient":false,"tcpServer":false},"maxTcpMessageSize":"{\"__object__\":\"Undefined\"}"}
